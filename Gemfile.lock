@@ -16,7 +16,7 @@ GEM
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (2.0.4)
-    rake (11.3.0)
+    rake (12.0.0)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
